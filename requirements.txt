@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langgraph
+cassio
+langchain_groq
+huggingface_hub
+sentence-transformers
+wikipedia
